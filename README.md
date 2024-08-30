@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently learning about React and it component
+I am Fresh Graduate in UOW KDU University College, Currently looking for Software development job at the momment, Currently learning new Framework
+
 
 
 ## 🌐 Socials:
